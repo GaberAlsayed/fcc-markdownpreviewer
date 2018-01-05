@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+h1{
+  font-size:60px;
+color:black;
+}
+Markdown Input{
+  font-size:32px;
+}
+.style {
+  text-shadow: 90px 30px 0px hsl(0, 9%, 33%),
+               0 0 0 rgb(175, 111, 111),
+               -1px 1px 0 #ebebeb,
+               5px 5px 0 #333;
+  
+  color: rgb(76, 100, 52);
+}
+
+body {
+  background-color: #dbd1d1;
+  font-family: 'Croissant One', cursive;
+  background-image: url("https://images.unsplash.com/photo-1508172819040-536e3f54970f?auto=format&fit=crop&w=1050&q=80");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; 
+}
+
+
+h1 {
+  font-size: 4.4em;
+  font-weight: bold;
+  letter-spacing: 5px; 
+  text-align: center;
+  margin-top: 40px;
+} 
